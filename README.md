@@ -32,5 +32,4 @@ Tools & Skills
 - Business Insights — interpretation and presentation of findings
 Links
 - PDF SQL Queries: [Click here](https://drive.google.com/file/d/1GqyluLKyfwxUhJ_Hxsy6eoZhRqegD6nE/view?usp=drive_link) 
-- Presentation: [Click here]([url](https://docs.google.com/presentation/d/1Sb6yp1J6XGJg0kHgAfIpfVRuQfu0AMzu/edit?usp=drive_link&ouid=100406379519039048835&rtpof=true&sd=true))
-
+- Presentation: [click here](https://docs.google.com/presentation/d/1Sb6yp1J6XGJg0kHgAfIpfVRuQfu0AMzu/edit?usp=drive_link&ouid=100406379519039048835&rtpof=true&sd=true) 
